@@ -1,0 +1,25 @@
+{
+  "name": "declinecurves",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tp_node": "^1.0.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdandekar-slb/declinecurves.git"
+  },
+  "author": "Rashmin D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdandekar-slb/declinecurves/issues"
+  },
+  "homepage": "https://github.com/rdandekar-slb/declinecurves#readme"
+}
